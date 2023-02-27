@@ -1,0 +1,10 @@
+body{
+    background-color:linear-gradient(125deg,#ffd673,#ffb2c1);
+}
+.blacktext{
+    color:block;
+    font-family:ヒラギノ角ゴ Pro W3,Futura Medium;
+}
+.new{
+    color:red;
+}
